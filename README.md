@@ -1,2 +1,2 @@
 # Soccer-Graph-Analytics
-Proof of concept of usefulness of graph analytics applied to soccer passing network.
+Proof of concept: graph analytics applied to soccer passing network.
